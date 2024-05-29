@@ -32,7 +32,7 @@ geojson = deepcopy(geojson_raw)
 
 # Add title and header
 st.title("Internet usage across contries")
-st.header("By Axel.F")
+st.header("By Alex. Ds")
 
 #st.table(data=mpg_df)
 if st.checkbox("Show Dataframe"):
