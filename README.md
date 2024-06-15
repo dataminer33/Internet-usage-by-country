@@ -45,7 +45,4 @@ The dashboard uses two datasets:
 Ensure that your code adheres to the project's style guidelines.
 Include tests for any new features or changes.
 Document any new features or changes in the README.md.
-License
-This project is licensed under the MIT License. ```
 
-Remember to replace https://example.com/path/to/dashboard-preview.png with the actual URL of your dashboard's preview image. The image should be a snapshot that showcases the dashboard's interface, such as a screenshot of the choropleth map and line graph side by side.
