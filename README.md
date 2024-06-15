@@ -34,7 +34,6 @@ Run the Streamlit app by executing the Python script:
 
 streamlit run app.py
 
-Replace app.py with the actual name of your Python script.
 
 ## Data
 
